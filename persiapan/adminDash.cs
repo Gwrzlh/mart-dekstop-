@@ -136,5 +136,29 @@ namespace persiapan
                 }
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Laporan lap = new Laporan();
+            lap.Show();
+        }
+
+        private void KelolaUser_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 kelolaUser = new Form2();
+            kelolaUser.Show();
+        }
+
+        private void LogActivity_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

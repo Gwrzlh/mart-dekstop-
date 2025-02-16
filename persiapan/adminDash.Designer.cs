@@ -37,6 +37,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.LogoutButton = new System.Windows.Forms.Button();
+            this.KelolaUser = new System.Windows.Forms.Button();
+            this.KelolaLaporan = new System.Windows.Forms.Button();
+            this.LogActivity = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,6 +52,7 @@
             this.label1.Size = new System.Drawing.Size(122, 38);
             this.label1.TabIndex = 0;
             this.label1.Text = "ADMIN";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -117,19 +121,52 @@
             // 
             // LogoutButton
             // 
-            this.LogoutButton.Location = new System.Drawing.Point(697, 41);
+            this.LogoutButton.Location = new System.Drawing.Point(12, 403);
             this.LogoutButton.Name = "LogoutButton";
-            this.LogoutButton.Size = new System.Drawing.Size(75, 23);
+            this.LogoutButton.Size = new System.Drawing.Size(75, 35);
             this.LogoutButton.TabIndex = 9;
             this.LogoutButton.Text = "Logout";
             this.LogoutButton.UseVisualStyleBackColor = true;
             this.LogoutButton.Click += new System.EventHandler(this.LogoutButton_Click);
+            // 
+            // KelolaUser
+            // 
+            this.KelolaUser.Location = new System.Drawing.Point(57, 214);
+            this.KelolaUser.Name = "KelolaUser";
+            this.KelolaUser.Size = new System.Drawing.Size(115, 23);
+            this.KelolaUser.TabIndex = 10;
+            this.KelolaUser.Text = "kelola User";
+            this.KelolaUser.UseVisualStyleBackColor = true;
+            this.KelolaUser.Click += new System.EventHandler(this.KelolaUser_Click);
+            // 
+            // KelolaLaporan
+            // 
+            this.KelolaLaporan.Location = new System.Drawing.Point(57, 264);
+            this.KelolaLaporan.Name = "KelolaLaporan";
+            this.KelolaLaporan.Size = new System.Drawing.Size(115, 23);
+            this.KelolaLaporan.TabIndex = 11;
+            this.KelolaLaporan.Text = "kelola laporan";
+            this.KelolaLaporan.UseVisualStyleBackColor = true;
+            this.KelolaLaporan.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // LogActivity
+            // 
+            this.LogActivity.Location = new System.Drawing.Point(57, 316);
+            this.LogActivity.Name = "LogActivity";
+            this.LogActivity.Size = new System.Drawing.Size(115, 31);
+            this.LogActivity.TabIndex = 12;
+            this.LogActivity.Text = "Log activity";
+            this.LogActivity.UseVisualStyleBackColor = true;
+            this.LogActivity.Click += new System.EventHandler(this.LogActivity_Click);
             // 
             // adminDash
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.LogActivity);
+            this.Controls.Add(this.KelolaLaporan);
+            this.Controls.Add(this.KelolaUser);
             this.Controls.Add(this.LogoutButton);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label4);
@@ -159,5 +196,8 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button LogoutButton;
+        private System.Windows.Forms.Button KelolaUser;
+        private System.Windows.Forms.Button KelolaLaporan;
+        private System.Windows.Forms.Button LogActivity;
     }
 }

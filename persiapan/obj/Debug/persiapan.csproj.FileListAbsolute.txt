@@ -43,3 +43,5 @@ C:\Users\ASUS\source\repos\persiapan\persiapan\bin\Debug\System.Threading.Tasks.
 C:\Users\ASUS\source\repos\persiapan\persiapan\obj\Debug\persiapan.csproj.Up2Date
 C:\Users\ASUS\source\repos\persiapan\persiapan\obj\Debug\persiapan.regists.resources
 C:\Users\ASUS\source\repos\persiapan\persiapan\obj\Debug\persiapan.adminDash.resources
+C:\Users\ASUS\source\repos\persiapan\persiapan\obj\Debug\persiapan.Form2.resources
+C:\Users\ASUS\source\repos\persiapan\persiapan\obj\Debug\persiapan.Laporan.resources

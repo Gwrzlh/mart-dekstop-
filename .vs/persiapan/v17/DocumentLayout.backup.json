@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\persiapan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|c:\\users\\asus\\source\\repos\\persiapan\\persiapan\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|c:\\users\\asus\\source\\repos\\persiapan\\persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|c:\\users\\asus\\source\\repos\\persiapan\\persiapan\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|c:\\users\\asus\\source\\repos\\persiapan\\persiapan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\regists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9CECC324-E7F4-41D7-84C1-3318BCBADA07}|persiapan\\persiapan.csproj|solutionrelative:persiapan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs",
-              "RelativeDocumentMoniker": "persiapan\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs [Design]",
-              "RelativeToolTip": "persiapan\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Laporan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Laporan.cs",
+              "RelativeDocumentMoniker": "persiapan\\Laporan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Laporan.cs [Design]",
+              "RelativeToolTip": "persiapan\\Laporan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:40:37.08Z",
+              "WhenOpened": "2025-02-14T21:31:29.152Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laporan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Laporan.cs",
+              "RelativeDocumentMoniker": "persiapan\\Laporan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Laporan.cs",
+              "RelativeToolTip": "persiapan\\Laporan.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwEAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:31:56.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -56,31 +90,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "regists.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
-              "RelativeDocumentMoniker": "persiapan\\regists.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
-              "RelativeToolTip": "persiapan\\regists.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:15:28.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "regists.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
-              "RelativeDocumentMoniker": "persiapan\\regists.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs [Design]",
-              "RelativeToolTip": "persiapan\\regists.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T14:33:06.488Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "adminDash.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\adminDash.cs",
               "RelativeDocumentMoniker": "persiapan\\adminDash.cs",
@@ -92,29 +101,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form2.cs",
+              "RelativeDocumentMoniker": "persiapan\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form2.cs",
+              "RelativeToolTip": "persiapan\\Form2.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwKcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:33:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs",
               "RelativeDocumentMoniker": "persiapan\\Form1.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs",
               "RelativeToolTip": "persiapan\\Form1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAkwFUAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAFsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T13:40:51.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form2.cs",
+              "RelativeDocumentMoniker": "persiapan\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form2.cs [Design]",
+              "RelativeToolTip": "persiapan\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:19:11.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "adminDash.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\adminDash.cs",
               "RelativeDocumentMoniker": "persiapan\\adminDash.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\adminDash.cs",
               "RelativeToolTip": "persiapan\\adminDash.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAkwEMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAmwI8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T06:18:05.005Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs",
+              "RelativeDocumentMoniker": "persiapan\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.cs [Design]",
+              "RelativeToolTip": "persiapan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:40:37.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "persiapan\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\Form1.Designer.cs",
+              "RelativeToolTip": "persiapan\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:33:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "regists.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
+              "RelativeDocumentMoniker": "persiapan\\regists.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs [Design]",
+              "RelativeToolTip": "persiapan\\regists.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:33:06.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "regists.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
+              "RelativeDocumentMoniker": "persiapan\\regists.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\persiapan\\persiapan\\regists.cs",
+              "RelativeToolTip": "persiapan\\regists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:15:28.911Z"
             }
           ]
         }
